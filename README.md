@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed On 
+
+Visit https://ice-clothing.herokuapp.com/ to view production site
+
 ## Available Scripts
 
 In the project directory, you can run:
