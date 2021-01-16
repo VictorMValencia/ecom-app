@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Visit https://ice-clothing.herokuapp.com/ to view production site 
 
-(**Note**: please wait a few seconds on first load for the heroku server to spin up.)
+*(**Note**: please wait a few seconds on first load for the heroku server to spin up.)*
 
 
 ## Available Scripts
